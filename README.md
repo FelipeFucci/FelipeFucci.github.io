@@ -22,4 +22,4 @@ Guidelines for contributing to the project.
 
 ## License
 
-![License](https://img.shields.io/badge/license-MIT-green)
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
